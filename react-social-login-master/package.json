@@ -42,18 +42,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deepakaggarwal7/react-social-login.git"
+    "url": "git+https://github.com/mad-learner/reactapp-social-login-system.git"
   },
   "keywords": [
     "social",
     "oauth"
   ],
-  "author": "Deepak Aggarwal <deepakaggarwal7@gmail.com>",
+  "author": "Rahul prasad <rahul.prasad@ramanujan.du.ac.in>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deepakaggarwal7/react-social-login/issues"
+    "url": "https://github.com/mad-learner/reactapp-social-login-system/issues"
   },
-  "homepage": "https://github.com/deepakaggarwal7/react-social-login#readme",
+  "homepage": "https://github.com/mad-learner/reactapp-social-login-system#readme",
   "dependencies": {
     "bluebird": "3.5.1",
     "fetch-jsonp": "1.1.3",
